@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@android:id/background">
+    <bitmap android:src="@drawable/ju" />
+  </item>
+  <item android:id="@android:id/background">
+    <color android:color="#80000000" /> <!-- Semi-transparent black color -->
+  </item>
+</layer-list>
